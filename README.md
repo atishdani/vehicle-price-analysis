@@ -1,16 +1,22 @@
-# Data Analysis Project
+# Vehicle Price Analysis using Python
 
-This project performs data analysis using Python and Jupyter Notebook.
-
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+## Tools
+Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Description
-Data cleaning, analysis, and visualization performed to generate insights.
+Performed exploratory data analysis on 11,900+ vehicle listings to identify factors affecting vehicle prices.
 
-## Author
-Atish Dani
+## Tasks
+- Data cleaning
+- Handling missing values
+- Outlier detection
+- Data visualisation
+- Statistical analysis
+
+## Insights
+- Price affected by age, mileage, fuel type
+- Older vehicles had lower value
+- Fuel type influenced price trends
+
+## Skills Used
+Python, EDA, Data Cleaning, Data Analysis, Data Visualisation
